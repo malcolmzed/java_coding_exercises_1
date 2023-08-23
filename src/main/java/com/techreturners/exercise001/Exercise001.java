@@ -2,29 +2,60 @@ package com.techreturners.exercise001;
 
 import java.util.List;
 
-public class Exercise001 {
+public class Exercise001 { //x
     public String capitalizeWord(String word) {
         // Add your code here
-        return "";
+        String s = word.substring(0, 1).toUpperCase() + word.substring(1);
+        return s;
     }
 
     public String generateInitials(String firstName, String lastName) {
-        // Add your code here
-        return "";
+        return firstName.charAt(0) + "." + lastName.charAt(0);
     }
 
     public double addVat(double originalPrice, double vatRate) {
         // Add your code here
-        return 0.0;
+        double newPrice = originalPrice * (1.0 + vatRate / 100.0);
+        int    roundedPrice100 = (int)Math.round(newPrice*100);
+        double roundedPrice = roundedPrice100 / 100.0;
+        return roundedPrice;
     }
 
     public String reverse(String sentence) {
-        // Add your code here
-        return "";
+        String words[] = sentence.split(" ");
+        String result = "";
+
+        int wordCount = words.length;
+
+        for (int i=wordCount-1; i>=0; i--) {
+            String reversed = "";
+            String aWord = " " + words[i];  // Add space so that words are
+            // separated in result
+
+            for (int j=0; j<aWord.length(); j++) {
+                reversed = aWord.charAt(j) + reversed;
+            }
+            result = result + reversed;
+            System.out.println(i);
+        }
+        result = result.substring(0, result.length()-1); // Strip off final space
+        return result;
     }
 
     public int countLinuxUsers(List<User> users) {
-        // Add your code here
-        return 0;
+
+        int rows=users.size();
+        int linuxCount=0;
+        String linux="Linux";
+
+        for(int i=0; i<rows; i++) {
+            String theType = users.get(i).getType();
+            int countIt = (theType.equals(linux))
+                    ? 1
+                    : 0;
+            linuxCount = linuxCount + countIt;
+        }
+
+        return linuxCount;
     }
 }
