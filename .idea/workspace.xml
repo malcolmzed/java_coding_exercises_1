@@ -5,25 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faf81877-7a3a-4455-a016-0fe343dd20dd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/java_coding_exercises_1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise003/stuff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise003/Exercise003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise003/Exercise003.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/techreturners/exercise003/Exercise003Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techreturners/exercise003/Exercise003Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise004/Exercise004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise004/Exercise004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/techreturners/exercise004/Exercise004Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techreturners/exercise004/Exercise004Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techreturners/exercise004/Exercise004.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techreturners/exercise004/Exercise004.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise001.Exercise001Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise001.Exercise001Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise002.Exercise002Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise002.Exercise002Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise003.Exercise003Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise003.Exercise003Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise004.Exercise004Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise004.Exercise004Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise005.Exercise005Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise005.Exercise005Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise001.Exercise001Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise001.Exercise001Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise002.Exercise002Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise002.Exercise002Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise003.Exercise003Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise003.Exercise003Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise004.Exercise004Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise004.Exercise004Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise005.Exercise005Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise005.Exercise005Test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techreturners/exercise004/Exercise004Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techreturners/exercise004/Exercise004Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +48,97 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecifiedWithDayRollOver">
+    <configuration name="Exercise003Test.checkGetIceCreamCodeForRaspberryRipple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techreturners.exercise003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise003" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise003.Exercise003Test" />
+      <option name="METHOD_NAME" value="checkGetIceCreamCodeForRaspberryRipple" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise003Test.checkPickMultipleIceCreamFlavours" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techreturners.exercise003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise003" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise003.Exercise003Test" />
+      <option name="METHOD_NAME" value="checkPickMultipleIceCreamFlavours" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techreturners.exercise004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise004" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise004.Exercise004Test" />
+      <option name="METHOD_NAME" value="checkGetDateTimeWhenBothDateAndTimeIsSpecified" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecifiedWithDayRollOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techreturners.exercise004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise004" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise004.Exercise004Test" />
+      <option name="METHOD_NAME" value="checkGetDateTimeWhenBothDateAndTimeIsSpecifiedWithDayRollOver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise004Test.checkGetDateTimeWhenDateIsSpecified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techreturners.exercise004.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise004" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise004.Exercise004Test" />
+      <option name="METHOD_NAME" value="checkGetDateTimeWhenDateIsSpecified" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecifiedWithDayRollOver" />
+        <item itemvalue="JUnit.Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecified" />
+        <item itemvalue="JUnit.Exercise004Test.checkGetDateTimeWhenDateIsSpecified" />
+        <item itemvalue="JUnit.Exercise003Test.checkPickMultipleIceCreamFlavours" />
+        <item itemvalue="JUnit.Exercise003Test.checkGetIceCreamCodeForRaspberryRipple" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
