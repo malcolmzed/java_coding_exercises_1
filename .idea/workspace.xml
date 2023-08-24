@@ -6,20 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="faf81877-7a3a-4455-a016-0fe343dd20dd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise004/Exercise004.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise004/Exercise004.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise005/Exercise005.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/techreturners/exercise005/Exercise005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/techreturners/exercise004/Exercise004Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/techreturners/exercise004/Exercise004Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/techreturners/exercise004/Exercise004.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techreturners/exercise004/Exercise004.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise001.Exercise001Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise001.Exercise001Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise002.Exercise002Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise002.Exercise002Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise003.Exercise003Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise003.Exercise003Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise004.Exercise004Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise004.Exercise004Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise005.Exercise005Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.techreturners.exercise005.Exercise005Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise001.Exercise001Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise001.Exercise001Test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise002.Exercise002Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise002.Exercise002Test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise003.Exercise003Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise003.Exercise003Test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise004.Exercise004Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise004.Exercise004Test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise005.Exercise005Test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.techreturners.exercise005.Exercise005Test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/techreturners/exercise004/Exercise004Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/techreturners/exercise004/Exercise004Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/techreturners/exercise005/Exercise005.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/techreturners/exercise005/Exercise005.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,84 +35,89 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecifiedWithDayRollOver">
-    <configuration name="Exercise003Test.checkGetIceCreamCodeForRaspberryRipple" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Exercise005Test.checkSentenceWithNumbersIsAPangram">
+    <configuration name="Exercise005Test.checkSentenceWithMissingLetterHIsNotAPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techreturners.exercise003.*" />
+          <option name="PATTERN" value="com.techreturners.exercise005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techreturners.exercise003" />
-      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise003.Exercise003Test" />
-      <option name="METHOD_NAME" value="checkGetIceCreamCodeForRaspberryRipple" />
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise005" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise005.Exercise005Test" />
+      <option name="METHOD_NAME" value="checkSentenceWithMissingLetterHIsNotAPangram" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise003Test.checkPickMultipleIceCreamFlavours" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise005Test.checkSentenceWithMissingLetterXIsNotAPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techreturners.exercise003.*" />
+          <option name="PATTERN" value="com.techreturners.exercise005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techreturners.exercise003" />
-      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise003.Exercise003Test" />
-      <option name="METHOD_NAME" value="checkPickMultipleIceCreamFlavours" />
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise005" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise005.Exercise005Test" />
+      <option name="METHOD_NAME" value="checkSentenceWithMissingLetterXIsNotAPangram" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise005Test.checkSentenceWithMixedUpperAndLowerCaseIsAPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techreturners.exercise004.*" />
+          <option name="PATTERN" value="com.techreturners.exercise005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techreturners.exercise004" />
-      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise004.Exercise004Test" />
-      <option name="METHOD_NAME" value="checkGetDateTimeWhenBothDateAndTimeIsSpecified" />
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise005" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise005.Exercise005Test" />
+      <option name="METHOD_NAME" value="checkSentenceWithMixedUpperAndLowerCaseIsAPangram" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecifiedWithDayRollOver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise005Test.checkSentenceWithNumbersIsAPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techreturners.exercise004.*" />
+          <option name="PATTERN" value="com.techreturners.exercise005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techreturners.exercise004" />
-      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise004.Exercise004Test" />
-      <option name="METHOD_NAME" value="checkGetDateTimeWhenBothDateAndTimeIsSpecifiedWithDayRollOver" />
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise005" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise005.Exercise005Test" />
+      <option name="METHOD_NAME" value="checkSentenceWithNumbersIsAPangram" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise004Test.checkGetDateTimeWhenDateIsSpecified" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise005Test.checkSentenceWithUnderscoresIsAPangram" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="coding-exercises" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.techreturners.exercise004.*" />
+          <option name="PATTERN" value="com.techreturners.exercise005.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.techreturners.exercise004" />
-      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise004.Exercise004Test" />
-      <option name="METHOD_NAME" value="checkGetDateTimeWhenDateIsSpecified" />
+      <option name="PACKAGE_NAME" value="com.techreturners.exercise005" />
+      <option name="MAIN_CLASS_NAME" value="com.techreturners.exercise005.Exercise005Test" />
+      <option name="METHOD_NAME" value="checkSentenceWithUnderscoresIsAPangram" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecifiedWithDayRollOver" />
-        <item itemvalue="JUnit.Exercise004Test.checkGetDateTimeWhenBothDateAndTimeIsSpecified" />
-        <item itemvalue="JUnit.Exercise004Test.checkGetDateTimeWhenDateIsSpecified" />
-        <item itemvalue="JUnit.Exercise003Test.checkPickMultipleIceCreamFlavours" />
-        <item itemvalue="JUnit.Exercise003Test.checkGetIceCreamCodeForRaspberryRipple" />
+        <item itemvalue="JUnit.Exercise005Test.checkSentenceWithNumbersIsAPangram" />
+        <item itemvalue="JUnit.Exercise005Test.checkSentenceWithUnderscoresIsAPangram" />
+        <item itemvalue="JUnit.Exercise005Test.checkSentenceWithMissingLetterHIsNotAPangram" />
+        <item itemvalue="JUnit.Exercise005Test.checkSentenceWithMissingLetterXIsNotAPangram" />
+        <item itemvalue="JUnit.Exercise005Test.checkSentenceWithMixedUpperAndLowerCaseIsAPangram" />
       </list>
     </recent_temporary>
   </component>
